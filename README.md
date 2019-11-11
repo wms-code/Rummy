@@ -16,7 +16,7 @@ A online app for playing multiplayer Rummy.
 
 ## Setup
 
-1. ```git clone https://github.com/sshh12/Rummy.git```
+1. ```git clone https://github.com/wms-code/Rummy.git```
 2. ```npm install```
 3. Run with ```node app.js``` or ```node app-ssl.js``` (```sslOptions``` must be set if using SSL)
 
